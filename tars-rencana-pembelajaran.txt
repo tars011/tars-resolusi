@@ -1,0 +1,7 @@
+RENCANA PEMBELAJARAN
+- HTML CSS
+- CSS Layout
+- Bootstrap
+- Javascript
+  * ES6
+  * Framework Javascript
