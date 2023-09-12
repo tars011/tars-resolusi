@@ -5,5 +5,8 @@ RENCANA PEMBELAJARAN
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - PHP
 - Framework PHP
+  ^Laravel
+- Python
