@@ -2,3 +2,5 @@ TARS RESOLUSI
 - Menyelesaikan pembelajaran WEB Programming
 - Konsisten untuk menonton tutorial coding
 - Menguasai perintah dasar Linux
+- Membuat web project
+- Menyelesaikan kuliah dengan hasil yang bagus
