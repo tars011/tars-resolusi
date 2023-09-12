@@ -3,3 +3,5 @@ RENCANA PEMBELAJARAN
 - CSS Layout
 - Bootstrap
 - Javascript
+  * ES6
+  * Framework Javascript
